@@ -7,7 +7,7 @@ IMAGENES DE LA TRADUCCION:
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8f0212c8-b33e-47a8-8261-614938fc38cb" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/82f9ea0a-cb7f-414b-9290-860486a9dcb5" />
 
-DESCARGA EL ARCHIVO .ZIP AQUI: 
+DESCARGA EL ARCHIVO .ZIP AQUI: https://github.com/Bunuelos-Asociados/CriminallyYours-ES/releases/tag/2.1
 
 ## INSTRUCCIONES DE INSTALACION:
 
